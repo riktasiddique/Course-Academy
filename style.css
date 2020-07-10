@@ -5,12 +5,13 @@ h5{
     width: 200px;
     margin: 30px 30px;
 }
-.top-left{
-    margin: 110px 40px;
+
+#ready-to-learn{
+    color: red;
 }
 .col-md-7 img {
     width: 100%;
-    margin: 50px 0px;
+    margin: 5px 0px;
 }
 .baground-color{
     background-color: #f0fff0;;
@@ -23,25 +24,24 @@ h5{
     color: #f0fff0;
     cursor: pointer;
 }
-.bottom-bg{
-    margin-bottom: 50px;
-}
-#card-img img {
-    width: 100px;
-    margin: 0px auto;
-}
-#card-img{
-    margin: 50px 120px;
-    text-align: center;
-    
-}
 .card{
     border: none;
+}
+.margin-bottom{
     margin-bottom: 50px;
 }
+.card-img img {
+    width: 100px;
+    margin: 50px auto;
+}
+  
 .Courses{
     text-align: center;
     margin-top: 50px;
+}
+.learn{
+    text-align: center;
+    padding-left: 10px;
 }
 
 .calender{
